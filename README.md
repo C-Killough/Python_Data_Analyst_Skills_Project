@@ -67,7 +67,7 @@ df_us = df[df['job_country'] == 'United States']
 To find the most demanded skills for the top 3 most popular data roles, I filtered out these positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
 View my notebook with detailed steps here:
-[2_Skill_Demand.ipynb](3_Python_Course_Project\2_Skill_Demand.ipynb)
+[2_Skill_Demand.ipynb](3_Python_Course_Project/2_Skill_Demand.ipynb)
 
 ### Visualize Data
 
@@ -122,7 +122,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](3_Python_Course_Project\Images\output.png)
+![Trending Top Skills for Data Analysts in the US](3_Python_Course_Project/Images/output.png)
 *Line graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -148,7 +148,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](3_Python_Course_Project\Images\salary_analysis_box.png)
+![Salary Distributions of Data Jobs in the US](3_Python_Course_Project/Images/salary_analysis_box.png)
 *Box plot visualizing the salary distributions for the top 6 data jobs.*
 
 #### Insights
@@ -181,7 +181,7 @@ plt.show()
 
 Here's the breakdown of the highest-payed skills and most in-demand skills for data analysts in the US:
 
-![The Highest Paid & Most In-Demand Skills for Data analysts in the US](3_Python_Course_Project\Images\Top_payed_and_top_posted_skills.png)
+![The Highest Paid & Most In-Demand Skills for Data analysts in the US](3_Python_Course_Project/Images/Top_payed_and_top_posted_skills.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights 
@@ -204,7 +204,7 @@ plt.show()
 ```
 #### Results
 
-![Most Optimal skills for Data Analysts in the US](3_Python_Course_Project\Images\most_optimal_skills.png)
+![Most Optimal skills for Data Analysts in the US](3_Python_Course_Project/Images/most_optimal_skills.png)
 *A Scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
